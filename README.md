@@ -10,7 +10,7 @@ Supervised image classification of bean leaf images into:
 EfficientNet-B0 with transfer learning
 
 ## Dataset
-Beans dataset
+Beans dataset: https://github.com/AI-Lab-Makerere/ibean/?tab=readme-ov-file
 - Train: 1034
 - Validation: 133
 - Test: 128
