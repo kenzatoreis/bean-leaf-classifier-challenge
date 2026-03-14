@@ -1,0 +1,8 @@
+epoch=1 train_loss=0.4236 val_loss=0.1122 val_acc=0.9624 val_f1=0.9629
+epoch=2 train_loss=0.1371 val_loss=0.0432 val_acc=0.9774 val_f1=0.9774
+epoch=3 train_loss=0.1213 val_loss=0.1566 val_acc=0.9474 val_f1=0.9472
+epoch=4 train_loss=0.1255 val_loss=0.0804 val_acc=0.9774 val_f1=0.9774
+epoch=5 train_loss=0.0600 val_loss=0.1147 val_acc=0.9474 val_f1=0.9475
+epoch=6 train_loss=0.1038 val_loss=0.0457 val_acc=0.9774 val_f1=0.9774
+epoch=7 train_loss=0.0700 val_loss=0.0277 val_acc=0.9774 val_f1=0.9774
+epoch=8 train_loss=0.0386 val_loss=0.0251 val_acc=0.9925 val_f1=0.9925

@@ -1,0 +1,9 @@
+Python 3.10
+PyTorch
+torchvision
+scikit-learn
+matplotlib
+pandas
+FastAPI
+uvicorn
+Pillow
